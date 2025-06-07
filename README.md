@@ -20,7 +20,7 @@ and—if you upload multiple PDFs—bundle all outputs into a ZIP.
 1. **Clone this repo**  
    ```bash
    git clone https://github.com/salmanalfarisi11/pdf-to-docx.git
-   cd pdf2word-gradio
+   cd pdf-to-docx
    ```
 
 2. Create and activate a virtual environment:
