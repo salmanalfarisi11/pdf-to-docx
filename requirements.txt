@@ -1,0 +1,5 @@
+gradio
+pdf2docx
+PyMuPDF
+python-docx
+
